@@ -1,7 +1,7 @@
 # Golang-Hangman
 
-Implementation of Hangman in Go.
-Comes with a .txt file of words(Dictionary.txt.
+Implementation of Hangman in Go.<br/>
+Comes with a .txt file of words(Dictionary.txt.<br/>
 Users are also able to add to the dictionary .
 
 ## Contributing
